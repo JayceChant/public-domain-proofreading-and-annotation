@@ -5,7 +5,8 @@
 > TODO:
 >
 > * 完善疑难字释义
-> * 生僻字普粤注音
+> * 全文粤语注音
+> * 生僻字普通话注音
 
 
 
@@ -23,26 +24,64 @@
 
 著有《凰求鳳》、《玉搔头》等戏剧，《肉蒲团》、《觉世名言十二楼》、《无声戏》、《連城璧》等小说，與《闲情偶寄》等书。
 
-[维基百科条目]: https://zh.wikipedia.org/wiki/李渔
+[维基百科条目](https://zh.wikipedia.org/wiki/李渔)
 
 ## 卷 一
 
 ### 一东
 
-天对地，雨对风。大陆对长空。山花对海树，赤日对苍穹。雷隐隐，雾蒙蒙。日下对天中。风高秋月白，雨霁晚霞红。牛女二星河左右，参商两曜斗西东。十月塞边，飒飒寒霜惊戍旅；三冬江上，漫漫朔雪冷渔翁。
+tin1 deoi3 dei6， jyu5 deoi3 fung1。  
+天對地，雨對風。  
+daai6 luk6 deoi3 coeng4 hung1。  
+大陸對長空。  
+saan1 faa1 deoi3 hoi2 syu6， cik3 jat6 deoi3 cong1 kung4。  
+山花對海樹，赤日對蒼穹。  
+leoi4 jan2 jan2， jyu5 mung4 mung4。  
+雷隱隱，霧濛濛。  
+jat6 haa6 deoi3 tin1 zung1。  
+日下對天中。  
+fung1 gou1 cau1 jyut6 baak6， jyu5 zai3 maan5 haa4 hung4。  
+風高秋月白，雨霽晚霞紅。  
+ngau4 neoi5 ji6 sing1 ho4 zo2 jau6，sam1 soeng1 loeng5 jiu6 dau2 sai1 dung1。  
+牛女二星河左右，參商兩曜斗西東。  
+sap6 jyut6 coi3 bin1，saap3 saap3 hon4 soeng1 ging1 syu3 leoi5；  
+十月塞邊，颯颯寒霜驚戍旅；  
+saam1 dung1 gong1 soeng6， maan6 maan6 sok3 syut3 laang5 jyu4 jung1。  
+三冬江上，漫漫朔雪冷漁翁。
 
-> 霁（普：jì；粤：zai3）：本意指雨停止，特指停止下雪，天空放晴，也比喻怒气消散。
-> 参（普：shēn；粤：sam1）商两曜斗西东：《左传·昭元年》载，传说高辛氏有二子，长阏伯，季实沉。兄弟不睦，日寻戈矛。帝迁阏于商丘，主辰；迁沉于大夏，主参，使之永不相遇。斗，北斗七星。
-> 戍旅：守边塞的兵卒。
+> 霽（jì）：本意指雨停，特指雪停放晴，也比喻怒气消散。
+>
+> 參（shēn）商两曜斗西东：《左传·昭元年》载，传说高辛氏有二子，长阏伯，季实沉。兄弟不睦，日寻戈矛。帝迁阏于商丘，主辰；迁沉于大夏，主参，使之永不相遇。斗，北斗七星。
+>
+> 戍（shù）旅：守边塞的兵卒。
+>
+> 朔（shuò）雪：朔，北方；朔雪，北方的雪。
 
-河对汉，绿对红。雨伯对雷公。烟楼对雪洞，月殿对天宫。云叆叇，日曈曚。腊屐对渔篷。过天星似箭，吐魄月如弓。驿旅客逢梅子雨，池亭人挹藕花风。茅店村前，皓月坠林鸡唱韵；板桥路上，青霜锁道马行踪。
+ho4 deoi3 hon3，luk6 deoi3 hung4。  
+河對漢，綠對紅。  
+jyu5 baak3 deoi3 leoi4 gung1。  
+雨伯對雷公。  
+jin1 lau4 deoi3 syut3 dung6，jyut6 din6 deoi3 tin1 gung1。  
+煙樓對雪洞，月殿對天宮。  
+wan4 oi2 doi6，jat6 tung4 mung4。  
+雲靉靆，日曈朦。  
+laap6 kek6 deoi3 jyu4 pung4。  
+蠟屐對漁篷。  
+gwo3 tin1 sing1 ci5 zin3，tou3 paak3 jyut6 jyu4 gung1。  
+過天星似箭，吐魄月如弓。  
+jik6 leoi5 haak3 fung4 mui4 zi2 jyu5，ci4 ting4 jan4 jap1 ngau5 faa1 fung1。  
+驛旅客逢梅子雨，池亭人挹藕花風。  
+maau4 dim3 cyun1 cin4，hou6 jyut6 zui6 lam4 gai1 coeng3 wan6；
+茅店村前，皓月墜林雞唱韻；  
+baan2 kiu4 lou6 soeng6，cing1 soeng1 so2 dou6 maa5 hang4 zung1。  
+板橋路上，青霜鎖道馬行蹤。  
 
-> 叆叇（普：aìdaì；粤：oi2doi6）：浓云蔽日之状。
+> 叆叇（aìdaì）：浓云蔽日之状。
 > 曈曚：日初出将明未明之状。
-> 蜡屐（普：jī；粤：kek6）：晋代阮孚好蜡屐，谢灵运亦有登山蜡屐。
-> 梅子雨：即黄梅雨。五月江南雨，迎梅又送梅。
-> 藕花风：夏天荷花开放时的凉风。元王恽诗：“人立藕花风”。挹（普：yì；粤：jap1），舀，把液体盛出来。
-> “茅店”四句：用唐温庭筠《商山早行》“鸡声茅店月，人迹板桥霜”诗意。
+> 蜡屐（jī）：晋代阮孚好蜡屐，谢灵运亦有登山蜡屐。
+> 梅子雨：即黄梅雨。
+> 藕花风：夏天荷花开放时的凉风。元王恽诗：“人立藕花风”。挹（yì），舀，把液体盛出来。
+> “茅店”四句：化用唐温庭筠《商山早行》“鸡声茅店月，人迹板桥霜”诗意。
 
 山对海，华对嵩。四岳对三公。宫花对禁柳，塞雁对江龙。清暑殿，广寒宫。拾翠对题红。庄周梦化蝶，吕望兆飞熊。北牖当风停夏扇，南帘曝日省冬烘。鹤舞楼头，玉笛弄残仙子月；凤翔台上，紫箫吹断美人风。
 
